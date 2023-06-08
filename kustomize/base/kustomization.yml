@@ -4,7 +4,7 @@ kind: Kustomization
 images:
 - name: sshakndr/sampleapp
   newName: sshakndr/sampleapp
-  newTag: 6e702f3721caedd253dbb723f94c2764574370dc
+  newTag: 591af39dc9f48eab17ee4ed44e09e499a85397c1
 
 resources:
 - deployment.yml
