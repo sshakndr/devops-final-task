@@ -8,7 +8,7 @@ images:
   newTag: 1.23.2-alpine
 - name: sshakndr/sampleapp
   newName: sshakndr/sampleapp
-  newTag: 591af39dc9f48eab17ee4ed44e09e499a85397c1
+  newTag: 042553221dbe72c8a6bf9350007851d43cb320a6
 
 resources:
 - ../../base
